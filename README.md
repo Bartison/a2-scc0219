@@ -16,5 +16,7 @@ Web Service completo para a loja "Poções e Soluções", permitindo:
 
 ### 1. Clone o repositório
 ```bash
-git clone <seu-repositorio>
-cd pocao-webservice
+git clone <link do repositório>
+cd a2-scc0219
+npm install
+npm start
